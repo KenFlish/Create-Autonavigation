@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "create:electron_tube"
+    },
+    "M": {
+      "item": "minecraft:map"
+    },
+    "N": {
+      "item": "simulated:navigation_table"
+    }
+  },
+  "pattern": [
+    " T ",
+    " M ",
+    " N "
+  ],
+  "result": {
+    "count": 1,
+    "id": "create_autonavigation:navigation_workbench"
+  }
+}
